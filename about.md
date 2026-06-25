@@ -1,5 +1,7 @@
 # About
 
+{% include navigation.html %}
+ 
 ## Project
 
 {{ site.description }}
